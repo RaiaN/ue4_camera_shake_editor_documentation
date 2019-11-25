@@ -1,0 +1,2 @@
+# ue4_camera_shake_editor_documentation
+CameraShake editor documentation repo
